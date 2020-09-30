@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Alexa Sacchi
 
 # Username (this should match the folder name)
 authors:
@@ -10,20 +10,20 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Graduate Student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Toronto
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include social cognitive development in the domain of morality
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Psychology
+- Development
+- Social
 
 education:
   courses:
