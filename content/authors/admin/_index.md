@@ -29,13 +29,13 @@ interests:
 education:
   courses:
   - course: PhD in Psychology
-    institution: University of Toronto- St.George
+    institution: University of Toronto
     year: 2025
   - course: MA in Psychology
-    institution: University of Toronto- St. George
+    institution: University of Toronto
     year: 2021
   - course: BA in Psychology
-    institution: Rutgers University- New Brunswick
+    institution: Rutgers University
     year: 2017
 
 # Social/Academic Networking
@@ -71,9 +71,6 @@ user_groups:
 - Visitors
 ---
 This website is under construction! Check back at a later time to see more.
-
 First year graduate student at the University of Toronto- St. George pursuing a Ph.D in developmental psychology. Research interests are broadly related to the social cognitive development of children with specific interest in moral judgement. 
 
-Lab: Star Lab at U of T
-  link: https://starlab.utoronto.ca/
-Advisor: Dr. Christina Starmans
+Advisor: Christina Starmans
