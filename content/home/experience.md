@@ -18,26 +18,27 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Lab Manager"
-  company = "Yale University"
-  company_url = "https://minddevlab.yale.edu/lab-members"
-  location = "New Haven, CT"
-  date_start = "2018-07-01"
-  date_end = "20202-08-01"
-  description = """Primary research is related to infant and child moral judgment and decision making"""
-  Principal Investigator: Paul Bloom
+  title = "CEO"
+  company = "GenCoin"
+  company_url = ""
+  location = "California"
+  date_start = "2017-01-01"
+  date_end = ""
+  description = """
+  Responsibilities include:
   
-  # how to add bullet points
-  # * Analysing
+  * Analysing
+  * Modelling
+  * Deploying
   """
 
 [[experience]]
-  title = "Research Coordinator"
-  company = "Robert Wood JOhnson Medical School"
-  company_url = "https://njace.us/research/current-studies-2/#1588792892206-344ef14a-2535"
-  location = "New Brunswick, NJ"
-  date_start = "2017-06-01"
-  date_end = "2018-07-01"
-  description = """Assisted in data collection for three longitudinal research studies that explore early biomarkers of Autism Spectrum Disorder in premature and low birth weight infants utilizing developmental and clinical assessments"""
+  title = "Professor"
+  company = "University X"
+  company_url = ""
+  location = "California"
+  date_start = "2016-01-01"
+  date_end = "2016-12-31"
+  description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++
