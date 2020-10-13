@@ -25,20 +25,18 @@ date_format = "Jan 2006"
   date_start = "2018-07-01"
   date_end = "2020-08-01"
   description = """
-  Primary research is related to infant and child moral judgment and decision making.
-  * Mind & Development Lab
-  * Principal Investigator: Paul Bloom
+  Responsibilities include:
+  
+  * Managing a research lab
   """
 
 [[experience]]
-  title = "Research Coordinator"
-  company = "Robert Wood Johnson Medical School"
+  title = "Professor"
+  company = "University X"
   company_url = ""
-  location = "New Brunswick, NJ"
-  date_start = "2018-07-01"
-  date_end = "2017-06-01"
-  description = """
-  Primary research is related to early biomarkers of autism in premature and low birth weight infants
-  * Principal Investigator: Barbie Zimmerman-Bier, MD
+  location = "California"
+  date_start = "2016-01-01"
+  date_end = "2016-12-31"
+  description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++
