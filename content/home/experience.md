@@ -25,6 +25,11 @@ date_format = "Jan 2006"
   date_start = "2018-07-01"
   date_end = "20202-08-01"
   description = """Primary research is related to infant and child moral judgment and decision making"""
+  Principal Investigator: Paul Bloom
+  
+  # how to add bullet points
+  # * Analysing
+  """
 
 [[experience]]
   title = "Research Coordinator"
